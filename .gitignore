@@ -1,0 +1,10 @@
+dist-newstyle
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VSCode ###
+.vscode
